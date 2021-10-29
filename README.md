@@ -1,6 +1,8 @@
 # Learning-Task-Automata
 
 To use:
+`pip install pythomata'
+
 1. Run case_study.m, paper_case_study_3x3.m, or paper_case_study_4x4.m
 2. Run PMC2NFA(T_est, [L L L], (2*(grid_size^2)+1):(3*(grid_size^2)), "T_est_nfa") in MATLAB.
 3. Run `python3 cone_lumping.py T_est_nfa' from command line.
