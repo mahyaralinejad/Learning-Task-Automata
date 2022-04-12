@@ -1,6 +1,6 @@
 # Learning-Task-Automata
 
-Proof-of-concept implementation for theory in my Master's thesis, _Synthesising Reward Automata for Reinforcement Learning Using Hidden Markov Models_. Please find a pdf version here for the mathematics and background: https://almulla.files.wordpress.com/2022/04/ya_msc_thesis.pdf
+Proof-of-concept implementation for theory in my Master's thesis, _Synthesising Reward Automata for Reinforcement Learning Using Hidden Markov Models_. Please find a pdf version for the mathematics and background here: https://almulla.files.wordpress.com/2022/04/ya_msc_thesis.pdf
 
 To use:
 
